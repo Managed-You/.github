@@ -4,7 +4,7 @@ An early stage startup with a goal to make Event Management an organised and eas
 
 ---
 
-### [Managed You Web](https:/github.com) :
+### [Managed You Web](https://github.com/Managed-You/managed-web) :
 The repository for the Managed You Web App 
 
 <!--
