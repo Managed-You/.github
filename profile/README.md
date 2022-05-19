@@ -1,4 +1,11 @@
 ## Hi there 👋
+# We are Managed You, 
+An early stage startup with a goal to make Event Management an organised and easy task.
+
+---
+
+### [Managed You Web](https:/github.com) :
+The repository for the Managed You Web App 
 
 <!--
 
